@@ -1,0 +1,37 @@
+body {
+		background-color: Beige;
+		padding: 30px;
+		margin: 0 auto;
+	    display: block;	
+	}
+	
+
+	.div {
+		margin: 0 auto;
+	    display: block;
+	    margin-left: 50%;
+	}
+	.head {
+	
+
+		margin-top: 20px;
+		padding: 30px;
+		text-align: center;
+		width: 300px;
+		background-color: Aquamarine;
+		font-size: 60px;
+		color: black;
+	}
+	
+
+	.display{
+		color: white;
+		font-size: 30px;
+	}
+	
+
+	.details {
+		color: white;
+		font-size: 30px;
+	}
+
